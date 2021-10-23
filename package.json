@@ -1,7 +1,7 @@
 {
   "name": "numeric-hash",
   "description": "Hash a string to a human-readable numeric string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Eric Hacke",
   "bugs": {
     "url": "https://github.com/ehacke/numeric-hash/issues"
