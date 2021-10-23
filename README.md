@@ -1,7 +1,7 @@
 # numeric-hash
-Hash a string to a human-readable number.
+Hash a string to a human-readable number. Increases the chances of collision to improve legibility.
 
-No dependencies.
+No dependencies. Uses standard NodeJS crypto library.
 
 ## Why?
 
