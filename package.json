@@ -26,6 +26,9 @@
     "url": "git+https://github.com/ehacke/numeric-hash.git"
   },
   "scripts": {
+    "major": "npm version major && npm publish",
+    "minor": "npm version minor && npm publish",
+    "patch": "npm version patch && npm publish",
     "test": "mocha test.js"
   }
 }
