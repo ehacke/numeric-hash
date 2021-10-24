@@ -1,6 +1,6 @@
 const crypto = require("crypto");
 
-const hash = (input, length = 14, chunkSize = 4) => {
+const hash = (input, length = 16, chunkSize = 4) => {
   if (typeof input !== 'string') {
     throw new Error('hash input must be a string');
   }
